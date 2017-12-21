@@ -1,1 +1,10 @@
 c:\users\mohamed elshek\documents\visual studio 2015\Projects\Network-Project-\Network-Project-\bin\Debug\Network-Project-.exe.config
+G:\Network-project-\Network-Project-\Network-Project-\bin\Debug\Network-Project-.exe.config
+G:\Network-project-\Network-Project-\Network-Project-\bin\Debug\Network-Project-.exe
+G:\Network-project-\Network-Project-\Network-Project-\bin\Debug\Network-Project-.pdb
+G:\Network-project-\Network-Project-\Network-Project-\obj\Debug\Network-Project-.csprojResolveAssemblyReference.cache
+G:\Network-project-\Network-Project-\Network-Project-\obj\Debug\Network_Project_.Form1.resources
+G:\Network-project-\Network-Project-\Network-Project-\obj\Debug\Network_Project_.Properties.Resources.resources
+G:\Network-project-\Network-Project-\Network-Project-\obj\Debug\Network-Project-.csproj.GenerateResource.Cache
+G:\Network-project-\Network-Project-\Network-Project-\obj\Debug\Network-Project-.exe
+G:\Network-project-\Network-Project-\Network-Project-\obj\Debug\Network-Project-.pdb
