@@ -33,6 +33,18 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="PcapDotNet.Analysis">
+      <HintPath>C:\Users\Mohamed Elshek\Downloads\NSHW\bin\Debug\PcapDotNet.Analysis.dll</HintPath>
+    </Reference>
+    <Reference Include="PcapDotNet.Base">
+      <HintPath>C:\Users\Mohamed Elshek\Downloads\NSHW\bin\Debug\PcapDotNet.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="PcapDotNet.Core">
+      <HintPath>C:\Users\Mohamed Elshek\Downloads\NSHW\bin\Debug\PcapDotNet.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="PcapDotNet.Packets">
+      <HintPath>C:\Users\Mohamed Elshek\Downloads\NSHW\bin\Debug\PcapDotNet.Packets.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

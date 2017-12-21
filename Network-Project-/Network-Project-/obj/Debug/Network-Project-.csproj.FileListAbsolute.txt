@@ -8,3 +8,12 @@ G:\Network-project-\Network-Project-\Network-Project-\obj\Debug\Network_Project_
 G:\Network-project-\Network-Project-\Network-Project-\obj\Debug\Network-Project-.csproj.GenerateResource.Cache
 G:\Network-project-\Network-Project-\Network-Project-\obj\Debug\Network-Project-.exe
 G:\Network-project-\Network-Project-\Network-Project-\obj\Debug\Network-Project-.pdb
+D:\Network-Project-\Network-Project-\Network-Project-\bin\Debug\Network-Project-.exe.config
+D:\Network-Project-\Network-Project-\Network-Project-\bin\Debug\Network-Project-.exe
+D:\Network-Project-\Network-Project-\Network-Project-\bin\Debug\Network-Project-.pdb
+D:\Network-Project-\Network-Project-\Network-Project-\obj\Debug\Network-Project-.csprojResolveAssemblyReference.cache
+D:\Network-Project-\Network-Project-\Network-Project-\obj\Debug\Network_Project_.Properties.Resources.resources
+D:\Network-Project-\Network-Project-\Network-Project-\obj\Debug\Network-Project-.csproj.GenerateResource.Cache
+D:\Network-Project-\Network-Project-\Network-Project-\obj\Debug\Network-Project-.exe
+D:\Network-Project-\Network-Project-\Network-Project-\obj\Debug\Network-Project-.pdb
+D:\Network-Project-\Network-Project-\Network-Project-\obj\Debug\Network_Project_.Network.resources
